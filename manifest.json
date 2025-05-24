@@ -1,0 +1,25 @@
+{
+  "name": "My Ovulation Calculator",
+  "short_name": "Ovulation Calc",
+  "description": "Track your fertility window, ovulation date, and estimated delivery date with My Ovulation Calculator.",
+  "start_url": "/index.html",
+  "display": "standalone",
+  "background_color": "#fff0f5",
+  "theme_color": "#c71585",
+  "scope": "/",
+  "icons": [
+    {
+      "src": "https://cdn.jsdelivr.net/gh/cosvire/moc@main/favicon/192x192.png",
+      "sizes": "192x192",
+      "type": "image/png"
+    },
+    {
+      "src": "https://cdn.jsdelivr.net/gh/cosvire/moc@main/favicon/512x512.png",
+      "sizes": "512x512",
+      "type": "image/png"
+    }
+  ],
+  "lang": "en-US",
+  "dir": "ltr",
+  "orientation": "portrait"
+}
