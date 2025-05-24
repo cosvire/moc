@@ -1,6 +1,6 @@
 {
   "name": "My Ovulation Calculator",
-  "short_name": "Ovulation Calculator",
+  "short_name": "Ovulation Calc",
   "description": "Track your fertility window, ovulation date, and estimated delivery date with My Ovulation Calculator.",
   "start_url": "/index.html",
   "display": "standalone",
